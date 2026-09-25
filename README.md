@@ -17,9 +17,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
+| [0234-palindrome-linked-list](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | undefined |
 | [0283-move-zeroes](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0283-move-zeroes/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
+| [0234-palindrome-linked-list](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | undefined |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | undefined |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | undefined |
 <!---LeetCode Topics End-->
