@@ -6,18 +6,13 @@
  * };
  */
 bool hasCycle(struct ListNode *head) {
-    struct ListNode *slow = head;
-    struct ListNode *fast = head;
-
-    while(fast != NULL && fast -> next != NULL)
+    struct ListNode* cur = head;
+    for(int i = 0; i<=10000; i++)
     {
-        slow = slow -> next;
-        fast = fast -> next -> next;
-
-        if(slow == fast)
-        {
-            return true;
-        }
-        }
-    return false;
+        if(cur == NULL)//走到空,无环
+            return false;
+        cur = cur->next;
+    }
+    //没有走到头,有环
+    return true;
 }
