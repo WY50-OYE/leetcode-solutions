@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0141-linked-list-cycle](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0141-linked-list-cycle/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | undefined |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Floyd 判圈算法
 | Problem Name | Difficulty |
