@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0020-valid-parentheses/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Recursion
 | Problem Name | Difficulty |
@@ -45,4 +46,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | undefined |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0020-valid-parentheses/) | undefined |
+## 括号序列
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/WY50-OYE/leetcode-solutions/tree/main/0020-valid-parentheses/) | undefined |
 <!---LeetCode Topics End-->
